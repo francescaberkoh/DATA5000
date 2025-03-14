@@ -1,2 +1,4 @@
 # DATA5000
 Gathering data to promote the role of stringent environmental policies in reducing emissions 
+
+This project explores the relationship between policy stringency, as defined by the Organization for Economic Co-operation and Development (OECD), and emissions in specific economic activity sectors, using a linear regression model. The research question being: how effective are stringent environmental policies at reducing emissions in each economic activity sector?
